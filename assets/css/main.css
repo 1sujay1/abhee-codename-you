@@ -24375,6 +24375,9 @@ Location:
   .video {
     max-width: 100%;
   }
+  .hero10-section-area{
+    background-position: right;
+  }
 }
 
 
