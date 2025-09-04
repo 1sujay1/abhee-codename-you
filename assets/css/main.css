@@ -4135,6 +4135,7 @@ Location:
 @media (max-width: 767px) {
   .header-carousel-area3 .main-hero-area {
     padding: 200px 0 120px;
+   
   }
 }
 .header-carousel-area3 .main-hero-area .img1 {
@@ -25281,7 +25282,7 @@ padding: 20px;
  .highlights-section {
       width: 100%;
       background: #fff;
-      padding: 60px 20px;
+      padding: 40px 20px;
       text-align: center;
     }
 
@@ -25297,11 +25298,11 @@ padding: 20px;
       flex-wrap: wrap;
       max-width: 1200px;
       margin: 0 auto;
-      gap: 40px;
+      gap: 20px;
     }
 
     .column {
-      flex: 1 1 400px;
+      flex: 1 1 200px;
     }
 
     .highlight-item {
